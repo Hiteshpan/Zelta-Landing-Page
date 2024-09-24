@@ -56,16 +56,16 @@ window.addEventListener("resize", function () {
 
 function files(index) {
   var data = `
-    ./images/1.webp  
-    ./images/2.webp  
-    ./images/3.webp  
-    ./images/4.webp  
-    ./images/5.webp  
-    ./images/6.webp  
-    ./images/7.webp  
-    ./images/8.webp  
-    ./images/9.webp  
-    ./images/10.webp  
+    ./1.webp  
+    ./2.webp  
+    ./3.webp  
+    ./4.webp  
+    ./5.webp  
+    ./6.webp  
+    ./7.webp  
+    ./8.webp  
+    ./9.webp  
+    ./10.webp  
     ./images/11.webp  
     ./images/12.webp  
     ./images/13.webp  
